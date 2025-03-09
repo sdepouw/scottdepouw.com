@@ -14,9 +14,9 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Scott DePouw # the main title
+title: Scott's Slice of the Web # the main title
 
-tagline: A software developer that speedruns # it will display as the subtitle
+tagline: Just a software developer who speedruns # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   My name's Scott DePouw. I'm a software developer and speedrunner!
