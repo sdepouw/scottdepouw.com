@@ -27,7 +27,14 @@ After a non-specific number of new things get done, I [push the latest build of 
 
 ## The Legend of Zelda - Global Tracker for Speedruns
 
-Bar
+Speedrunners use a very nice tool named [LiveSplit](https://livesplit.org/) to track times whlie running a game. It's built in C#, [is open source](https://github.com/LiveSplit), and is extensible via custom component creation.
+
+I forked the [LiveSplit.Counter](https://github.com/LiveSplit/LiveSplit.Counter) component (which just counts up by 1 whenever you press a configurable key) and modified it to track globals. It's exactly like the counter, except it wraps from 0-9 (as the counter does in Zelda), and displays some extra information relevant to Zelda.
+
+![A screenshot of LiveSplit highlighting the global counter](/assets/pages/projects/livesplit-global-counter.png)
+_Note the green "Global" line, highlighting the current count as well as the next items that can drop._
+
+I plan to migrate it to my primary GitHub account, but for now you can find this project up on my [other GitHub](https://github.com/DoctorBlue/LiveSplit.GlobalCounter)!
 
 ## This Site
 
