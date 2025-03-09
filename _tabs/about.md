@@ -1,9 +1,9 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fas fa-user
 order: 3
 ---
 
-# Hello!
+## Hello!
 
 My name's Scott DePouw. I'm a software developer! I'm also a speedrunner!
