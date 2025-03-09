@@ -2,14 +2,18 @@
 
 - type: twitch
   icon: "fa-brands fa-twitch"
-  url: "https://twitch.com/TheDoctorBlue" # Fill with your Bluesky profile link
+  url: "https://twitch.com/TheDoctorBlue"
 
-- type: github
-  icon: "fab fa-github"
+- type: youtube
+  icon: "fa-brands fa-youtube"
+  url: "https://www.youtube.com/@doctorblue4942"
 
 - type: bluesky
   icon: "fa-brands fa-bluesky"
-  url: "https://bsky.app/profile/depouw.bsky.social" # Fill with your Bluesky profile link
+  url: "https://bsky.app/profile/depouw.bsky.social"
+
+- type: github
+  icon: "fab fa-github"
 
 - type: stack-overflow
   icon: "fab fa-stack-overflow"
