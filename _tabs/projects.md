@@ -31,4 +31,6 @@ Bar
 
 ## This Site
 
-FizzBuzz
+I didn't have too much ambition in regards to this web site. I just wanted a place to be able to quickly update content, write blog posts, and more. After a bit of searching I landed on [Jekyll](https://jekyllrb.com/), using the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme. It took a couple hours from conception to going live, including domain name stuff, configuring the site, preparing GitHub and GitHub Pages, installing up Docker and related tools on my primary PC. Pretty quick all things considered!
+
+Like all my projects [this one is maintained on GitHub](https://github.com/sdepouw/scottdepouw.com)!
