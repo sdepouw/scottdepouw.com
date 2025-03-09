@@ -1,4 +1,8 @@
-# Chirpy Starter
+# scottdepouw.com
+
+The repository of my personal web site!
+
+## Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
@@ -25,15 +29,15 @@ Jekyll site. The following is a list of targets:
 To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
 latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
 
-## Usage
+### Usage
 
 Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
-## Contributing
+### Contributing
 
 This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
 
-## License
+### License
 
 This work is published under [MIT][mit] License.
 
