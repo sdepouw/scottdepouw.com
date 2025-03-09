@@ -4,7 +4,7 @@ date: 2025-03-09 11:10:00 UTC
 tags: [personal]
 ---
 
-3/17/2009
+## Long Ago...
 
 On March 17th 2009 I purchased the domain `scottdepouw.com`, fully intending on making it my personal slice of the web. While it hasn't quite been 84 years, it's been almost 16! It was something I just procrastinated on over and over.
 
