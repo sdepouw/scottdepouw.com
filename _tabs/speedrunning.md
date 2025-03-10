@@ -6,13 +6,19 @@ order: 1
 
 Text goes here.
 
-- SRC profile link
+- SRC profile link `https://www.speedrun.com/users/TheDoctorBlue`
 - Z1
   - First speedrun. Talk about choice vs LTTP (time). Mention the community. Link to the Z1 Discord. Link to Red Candle.
   - Explain Any% No Up+A
-  - Link to first PB (it's on Twitch) : {% include embed/twitch.html id='123456' %}
+  - Link to first PB (it's on Twitch)
+  
+  {% include embed/youtube.html id='-sWp_YB9_AA' %}
+  
     - Talk about having laptop open. Pausing to see.
-  - Link to current PB : {% include embed/youtube.html id='H-B46URT4mg' %}
+  - Link to current PB :
+  
+  {% include embed/youtube.html id='vqdfUjfUnfA' %}
+    
     - How far one has come
   - Next Steps - 28:30 goal
   - Other categories
