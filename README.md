@@ -10,7 +10,7 @@ Runs Ruby, so I have it checked out into a Docker container (dev contianer in VS
 
 ### Run Locally
 
-Will run out of `http://localhost:4000
+Will run out of `http://localhost:4000`
 
 ```powershell
 bundle exec jekyll s  
