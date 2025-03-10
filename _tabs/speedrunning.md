@@ -48,4 +48,29 @@ There were long gaps in which I didn't speedrun, mostly due to getting into othe
 
 I'm still doing runs of Zelda, and want to continue lowering my time. My next goal is `28:2x` or better!
 
-<!-- ## Big 20 #17 -->
+## Big 20 #17
+
+The Big 20 is [an event held twice a year by the "Best of NES" community](https://thebig20nes.com/). It's an event where you run 20 NES games back-to-back, marathon-style. The list of games and the categories being run are announced several weeks in advance. Participants are given all the resources necessary to play the games and the knowledge needed to succeeded. Then race day happens where everyone races each other to gain the fastest time.
+
+Of course, like any marathon, simply completing the event is an accomplishment on its own!
+
+On [DATE GOES HERE] I partipated in the 17th Big 20 event. [The games and goals ranged from *Castlvania III: Dracula's Curse* to *Contra* to *DuckTales* to *Mega Man 2* to *The Legend of Zelda*](https://thebig20nes.com/race-17/).
+
+![The list of games and goals for Big 20 #17](/assets/pages/speedrunning/big-20-17-goal-list.png)
+_Quite a fun list!_
+
+It was one of the more approachable lists, particularly since Zelda was the sendoff game (and, in my opinion, the most fun part of that run). So I joined! And with an official time of `4:13:11` I came in 33rd place. I'm very proud of this one! [You can find the full set of race results, live racer reactions, and more here](https://racetime.gg/best-of-nes/cunning-arctic-6615).
+
+{% include embed/youtube.html id='jC-RAQlwcDM' %}
+
+I don't know if I'll do another Big 20, but part of me wants to try.
+
+## Other Games to Run
+
+There's a lot of games I want to get very good at running. There's a certain set of goals I want to reach in particular: The Zelda Trilogy 30-80-90 goal. That is:
+
+- A time under 30 minutes for *The Legend of Zelda* (done!)
+- A time under 80 minutes for [*Zelda II: The Adventure of Link*](https://en.wikipedia.org/wiki/Zelda_II:_The_Adventure_of_Link)
+- A time under 90 minutes for *The Legend of Zelda: A Link to the Past*
+
+I have a few runs in each of the latter two titles, but still have a lot of work to put into them if I want to succeed. It's a definite goal I want to complete!
