@@ -4,7 +4,7 @@ date: 2025-03-11 9:41:20 UTC
 tags: [speedrunning]
 ---
 
-I started speedrunning back in 2018 (learn more on [my speedrunning page](/speedrunning)). There were several games I thought about taking the time to learn to get a decent time in. Ultimately, I chose to run [*The Legend of Zelda*](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)) on the [Nintendo Entertainment System (NES)](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System). It was a toss-up between that Zelda game and [*The Legend of Zelda: A Link to the Past*](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past), and I chose the former due to the length being shorter (roughly-speaking, 30 minutes vs. 90 minutes).
+I started speedrunning back in 2018 (learn more on [my speedrunning page](/speedrunning)). There were several games I thought about taking the time to learn to get a decent time in. Ultimately, I chose to run [*The Legend of Zelda*](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)){:target="_blank"} on the [Nintendo Entertainment System (NES)](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System){:target="_blank"}. It was a toss-up between that Zelda game and [*The Legend of Zelda: A Link to the Past*](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past){:target="_blank"}, and I chose the former due to the length being shorter (roughly-speaking, 30 minutes vs. 90 minutes).
 
 ## My First PB
 
@@ -26,7 +26,7 @@ Then on December 15th, 2019, I did it. With a time of `29:41.09` I got a sub-30 
 
 ## 28:xx
 
-The current world record for Zelda is [27:42 by the excellent runner Greenmario](https://www.speedrun.com/the_legend_of_zelda/runs/y8oe4j1m). It's an insane time that requires everything to go your way in addition to having incredible skill. Given that 27:xx is possible, 28:xx is definitely doable. That was my next overall goal.
+The current world record for Zelda is [27:42 by the excellent runner Greenmario](https://www.speedrun.com/the_legend_of_zelda/runs/y8oe4j1m){:target="_blank"}. It's an insane time that requires everything to go your way in addition to having incredible skill. Given that 27:xx is possible, 28:xx is definitely doable. That was my next overall goal.
 
 There were long gaps in which I didn't speedrun, mostly due to getting into other hobbies. Some new strategies and techniques were discovered or chiseled out, making the beginning of the run more consistent. That combined with hundreds of attempts on record, I was able to get a time of `28:55.333` on October 2nd, 2023.
 
@@ -34,7 +34,7 @@ There were long gaps in which I didn't speedrun, mostly due to getting into othe
 
 ## Other Categories
 
-I've completed every category that exists for this game on the [main leaderboard over at SRC](https://www.speedrun.com/the_legend_of_zelda). These categories range from variations on the main quest (Any%, 100%, Low%) to diffiuclt challenges like Extreme Rules (which has stipulations like "no killing enemies in the overworld", "must visit every room of every dungeon", and "cannot use your sword").
+I've completed every category that exists for this game on the [main leaderboard over at SRC](https://www.speedrun.com/the_legend_of_zelda){:target="_blank"}. These categories range from variations on the main quest (Any%, 100%, Low%) to diffiuclt challenges like Extreme Rules (which has stipulations like "no killing enemies in the overworld", "must visit every room of every dungeon", and "cannot use your sword").
 
 ## Next Goals
 
