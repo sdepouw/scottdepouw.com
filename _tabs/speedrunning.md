@@ -4,13 +4,17 @@ icon: fas fa-clock
 order: 1
 ---
 
-Speedrunning, put simply, is gunning for a best time while playing a video game. Play a game from start to finish, time how long it took to do, and see if you can do better on the next attempt. Compare with others and see just how quickly a game can be beaten. It's long-since escaped niches thanks to widespread interest, popular events like Games Done Quick, and just for being around for so long.
+Put simply, speedrunning is gunning for a best time while playing a video game. Play a game from start to finish, time how long it took to do, and see if you can do better on the next attempt. Compare with others and see just how quickly a game can be beaten. It's long-since escaped niches thanks to widespread interest, popular events like Games Done Quick, and just for being around for so long.
 
 Most games have leaderbaords maintained online, and can be found over at `speedrun.com`. [Check out my profile to find a list of all my best times, old and new](https://www.speedrun.com/users/TheDoctorBlue){:target="_blank"}!
 
 > In speedrunning communities, I'm known as `TheDoctorBlue`. It's a name that has no meaning (I am not a doctor, nor am I blue) that I came
 > up with on the spot one day. You can find any speedrunning content by me under that alias!
 {: .prompt-tip }
+
+## Current Goals
+
+- *The Legend of Zelda (NES)*, Any% No Up+A: `28:29` or better
 
 ## The Legend of Zelda (NES)
 
