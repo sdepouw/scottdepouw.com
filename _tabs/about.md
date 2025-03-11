@@ -4,7 +4,7 @@ icon: fas fa-user
 order: 3
 ---
 
-My name's Scott. I'm a programmer and speedrunner!
+My name's Scott. I'm a programmer and speedrunner! On this site you can expect me to write about topics regarding both subjects, as well as whatever else might come to mind.
 
 ## Programming
 
