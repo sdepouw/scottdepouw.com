@@ -15,18 +15,19 @@
 - type: github
   icon: "fab fa-github"
 
-- type: speedrun-com # becomes 'aria-label' value
-  icon: "fa-solid fa-flag-checkered" # find icons here: https://fontawesome.com/icons
+- type: speedrun-com
+  icon: "fa-solid fa-flag-checkered"
   url: "https://www.speedrun.com/users/TheDoctorBlue"
 
 - type: stack-overflow
   icon: "fab fa-stack-overflow"
   url: "https://stackoverflow.com/users/100534/scott-depouw"
+#
 # Custom Guide
 # - type: example # becomes 'aria-label' value
 #   icon: "fa-solid fa-flag-checkered" # find icons here: https://fontawesome.com/icons
 #   url: "https://www.example.com"
-
+#
 # Uncomment and complete the url below to enable more contact options
 # - type: email
 #   icon: "fas fa-envelope"
