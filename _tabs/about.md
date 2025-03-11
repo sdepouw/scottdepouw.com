@@ -4,7 +4,7 @@ icon: fas fa-user
 order: 3
 ---
 
-My name's Scott. I'm a programmer and speedrunner! On this site you can expect me to write about topics regarding both subjects, as well as whatever else might come to mind.
+My name's Scott. I'm a programmer and speedrunner! On this site you can expect me to write about topics regarding both subjects, as well as whatever else might come to mind. Comments are welcome, and are currently powered by [giscus](https://github.com/giscus/giscus), so you'll need a GitHub account. If you don't have one, just shoot a comment out to me on any of the sites listed in the bottom-left corner!
 
 ## Programming
 
