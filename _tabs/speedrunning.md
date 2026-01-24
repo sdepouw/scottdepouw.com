@@ -26,7 +26,7 @@ As of January 18th 2026 my current personal best time is `28:48.584`, which can 
 
 More details about the specific run can be found [on the leaderboard submission](https://www.speedrun.com/the_legend_of_zelda/runs/z176lxrz){:target="_blank"}.
 
-For more info about me running Zelda, check out [this blog post]({% post_url 2026-01-23-z1-no-up-a-pb %})!
+For more info about me running Zelda, check out [this blog post]({% post_url 2025-03-11-beginning-speedrunning %})!
 
 ## Big 20 #17
 
