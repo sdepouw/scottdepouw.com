@@ -13,9 +13,9 @@ You do collect the item (the food/bait) that's missing in this menu, but you use
 
 The run went rather well, for what was essentially a de-rust. I haven't run this category too much, but it's been a few years since I've attempted it... and I've gotten a lot better since then. It showed here! There's plenty to improve on (as always), but I'm very happy with this run.
 
-I improved my time by nearly two minutes, lowering it to `37:46.600`! Visiting the [SRC leaderboard](https://www.speedrun.com/the_legend_of_zelda?h=100_No_UpA-First_Quest&x=wkpo9g2r-gnxwmd48.xqkyow4l), this will improve my ranking from 32nd place to 21st!
+I improved my time by nearly two minutes, lowering it to `37:46.600`! Visiting the [SRC leaderboard](https://www.speedrun.com/the_legend_of_zelda?h=100_No_UpA-First_Quest&x=wkpo9g2r-gnxwmd48.xqkyow4l){:target="_blank"}, this will improve my ranking from 32nd place to 21st!
 
-This run was streamed earlier today on [my Twitch stream](https://twitch.tv/TheDoctorBlue), and is available to watch on YouTube:
+This run was streamed earlier today on [my Twitch stream](https://twitch.tv/TheDoctorBlue){:target="_blank"}, and is available to watch on YouTube:
 
 {% include embed/youtube.html id='WhzbSVcYSVU' %}
 

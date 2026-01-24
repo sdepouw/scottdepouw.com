@@ -18,9 +18,13 @@ Most games have leaderbaords maintained online, and can be found over at `speedr
 
 ## The Legend of Zelda (NES)
 
-My first and primary game for speedrunning. I've been running this game for years and have gotten really good, to the point where I'm, at this time of writing, in 15th place on [the leaderboard](https://www.speedrun.com/the_legend_of_zelda){:target="_blank"}. My current personal best time is `28:55.333`, which can be watched here:
+My first and primary game for speedrunning. I've been running this game for years and have gotten really good, to the point where I'm, at this time of writing, in 14th place on [the leaderboard](https://www.speedrun.com/the_legend_of_zelda){:target="_blank"}.
 
-{% include embed/youtube.html id='vqdfUjfUnfA' %}
+As of January 18th 2026 my current personal best time is `28:48.584`, which can be watched here:
+
+{% include embed/youtube.html id='mUkh6JqFq8w' %}
+
+More details about the specific run can be found [on the leaderboard submission](https://www.speedrun.com/the_legend_of_zelda/runs/z176lxrz){:target="_blank"}.
 
 For more info about me running Zelda, check out [this blog post](/posts/beginning-speedrunning/)!
 
